@@ -1,0 +1,8 @@
+{
+  "name": "Divyanshi ",
+  "description": "India's premier short video platform where entertainment meets earnings. Watch, create with AI, and earn rewards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
